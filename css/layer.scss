@@ -1,0 +1,63 @@
+*{margin: 0; padding: 0}
+@import "fonts.scss";
+$font: 'FontAwesome'; 
+$black: #000000;
+$yellow: #FF5F2D;
+$blue: #4D5FE3;
+
+body {
+    box-sizing: border-box;
+    color: #484848;
+    padding: 0 !important;  
+    font-size: 16px;  
+    line-height: 1.6;
+    transition: .3s all; 
+    position: relative;
+    font-weight: normal;
+    font-family: 'Mulish';
+    background: #fff;
+    color: #100A0A;
+    overflow-x: hidden;
+    &.active {
+        overflow: hidden;
+    }
+    h1, h2, h3, h4, h5, h6, p, label, ul, li, .card, a { 
+        text-decoration: none !important;        
+        transition: .3s all;   
+        margin-bottom: 0;  
+        outline: none !important;    
+    }    
+    a { 
+        transition: .3s all !important; 
+        color: #000000;   
+        &:hover {
+            color: $yellow;       
+        }  
+    } 
+    ul {    
+    	padding: 0;   
+    	margin: 0;  
+    }   
+    input, button {    
+    	outline: none !important; 
+    	box-shadow: none; 
+    	transition: .3s all; 
+    }
+    .slick-slide {
+    	height: auto;  
+        img {
+            display: inline;
+        }
+    }
+    .container {
+        width: 100%;
+        max-width: 1200px;
+    } 
+    img {
+        max-width: 100%;
+    }
+    .slick-slider {
+        margin-bottom: 0;
+    }
+}
+
