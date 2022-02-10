@@ -127,7 +127,6 @@
 			</div>
 		</div>
 	</section>
-<<<<<<< HEAD
 	<section class="banner-center">
 		<div class="avarta"><img src="images/banner-center.png" class="img-fluid w-100" alt=""></div>
 		<div class="cap-banner">
@@ -145,12 +144,21 @@
 			</div>
 			<div class="content-phone-tab text-center">
 				<div class="tab-phone">
-					<div class="avr-phone"><img src="images/phone.png" class="img-fluid" alt=""></div>
-					<div class="tab-avr active" id="phone-1"><img src="images/phone-1.png" class="img-fluid w-100" alt=""></div>
+					<div class="avr-phone"><img src="images/ip12.png" class="img-fluid" alt=""></div>
+					<div class="swiper-container gallery-top">
+						<div class="swiper-wrapper">
+						    <div class="swiper-slide"><img src="images/phone-1.png" class="img-fluid w-100" alt=""></div>
+						    <div class="swiper-slide"><img src="images/phone-1.png" class="img-fluid w-100" alt=""></div>
+						    <div class="swiper-slide"><img src="images/phone-1.png" class="img-fluid w-100" alt=""></div>
+						    <div class="swiper-slide"><img src="images/phone-1.png" class="img-fluid w-100" alt=""></div>
+						    <div class="swiper-slide"><img src="images/phone-1.png" class="img-fluid w-100" alt=""></div>
+						</div>
+					</div>
+					<!-- <div class="tab-avr active" id="phone-1"><img src="images/phone-1.png" class="img-fluid w-100" alt=""></div>
 					<div class="tab-avr" id="phone-2"><img src="images/phone-1.png" class="img-fluid w-100" alt=""></div>
-					<div class="tab-avr" id="phone-3"><img src="images/phone-1.png" class="img-fluid w-100" alt=""></div>
+					<div class="tab-avr" id="phone-3"><img src="images/phone-1.png" class="img-fluid w-100" alt=""></div> -->
 				</div>
-				<div class="slide-phone">
+				<!-- <div class="slide-phone">
                     <div class="slider-nav">
                         <div class="clc"><div class="item">Phát hiện & thông báo khi có người chuyển động</div></div>
                         <div class="clc"><div class="item">Nhận diện người lạ, người quen</div></div>
@@ -162,10 +170,38 @@
                         <div class="carousel-item">Phát hiện có người</div>
                         <div class="carousel-item">Nhận diện người lạ, người quen</div>
                         <div class="carousel-item">Khoanh vùng chuyển động</div>
-                        <div class="carousel-item">Nhận thông báo kèm hình ản</div>
+                        <div class="carousel-item">Nhận thông báo kèm hình ảnh</div>
                         <div class="carousel-item">Tùy chọn thông báo</div>
                     </div>
+				</div> -->
+			</div>
+			<!-- <div class="swiper-container gallery-top">
+				<div class="swiper-wrapper">
+				    <div class="swiper-slide"><img src="images/phone-1.png" class="img-fluid w-100" alt=""></div>
+				    <div class="swiper-slide"><img src="images/phone-1.png" class="img-fluid w-100" alt=""></div>
+				    <div class="swiper-slide"><img src="images/phone-1.png" class="img-fluid w-100" alt=""></div>
+				    <div class="swiper-slide"><img src="images/phone-1.png" class="img-fluid w-100" alt=""></div>
+				    <div class="swiper-slide"><img src="images/phone-1.png" class="img-fluid w-100" alt=""></div>
 				</div>
+			</div> -->
+		</div>
+
+		<!-- <div class="swiper-container gallery-top">
+			<div class="swiper-wrapper">
+			    <div class="swiper-slide"><img src="images/phone-1.png" class="img-fluid w-100" alt=""></div>
+			    <div class="swiper-slide"><img src="images/phone-1.png" class="img-fluid w-100" alt=""></div>
+			    <div class="swiper-slide"><img src="images/phone-1.png" class="img-fluid w-100" alt=""></div>
+			    <div class="swiper-slide"><img src="images/phone-1.png" class="img-fluid w-100" alt=""></div>
+			    <div class="swiper-slide"><img src="images/phone-1.png" class="img-fluid w-100" alt=""></div>
+			</div>
+		</div> -->
+		<div class="swiper-container gallery-thumbs">
+			<div class="swiper-wrapper">
+			    <div class="swiper-slide">Phát hiện có người</div>
+			    <div class="swiper-slide">Nhận diện người lạ, người quen</div>
+			    <div class="swiper-slide">Khoanh vùng chuyển động</div>
+			    <div class="swiper-slide">Nhận thông báo kèm hình ảnh</div>
+			    <div class="swiper-slide">Tùy chọn thông báo</div>
 			</div>
 		</div>
 	</section>
@@ -259,12 +295,16 @@
 			</div>
 		</div>
 	</section>
-	<section class="box-trainghiem">
+	<div class="section box-title">
 		<div class="container">
 			<div class="title text-center">
 				<h2>Trải nghiệm an ninh khác biệt và toàn diện với <span>DỊCH VỤ IQ.</span></h2>
 				<h4>Nhờ sự kết hợp hoàn hảo </h4>
 			</div>
+		</div>
+	</div>
+	<section class="box-trainghiem">
+		<div class="container">
 			<div class="content-traing">
 				<div class="row align-items-center">
 					<div class="col-md-5">
@@ -352,7 +392,7 @@
 					</div>
 				</div>
 				<div class="col-md-6">
-					<div class="avr-gs"><img src="images/gs.png" class="img-fluid" alt=""></div>
+					<div class="avr-gs text-center"><img src="images/gs.png" class="img-fluid" alt=""></div>
 				</div>
 			</div>
 		</div>
@@ -375,68 +415,97 @@
 					</div>
 				</div>
 			</div>
-			<div class="list-blog">
-				<div class="slide-blog">
-					<div class="item-slide">
-						<div class="item-blog">
-							<div class="avarta"><a href=""><img src="images/blog-1.png" class="img-fluid w-100" alt=""></a></div>
-							<div class="info">
-								<h3><a href="">Foxpay - Thanh toán thông minh</a></h3>
-								<div class="desc">
-									Từ ngày 01/12/2021 đến ngày 31/12/2021, FPT Telecom mang đến cho bạn cơ hội nhận nhiều...
-								</div>
-								<div class="date">Tin khuyến mãi • 13/12/2021</div>
+		</div>
+		<div class="list-blog">
+			<div class="slide-blog">
+				<div class="item-slide">
+					<div class="item-blog">
+						<div class="avarta"><a href=""><img src="images/blog-1.png" class="img-fluid w-100" alt=""></a></div>
+						<div class="info">
+							<h3><a href="">Foxpay - Thanh toán thông minh</a></h3>
+							<div class="desc">
+								Từ ngày 01/12/2021 đến ngày 31/12/2021, FPT Telecom mang đến cho bạn cơ hội nhận nhiều...
 							</div>
+							<div class="date">Tin khuyến mãi • 13/12/2021</div>
 						</div>
 					</div>
-					<div class="item-slide">
-						<div class="item-blog">
-							<div class="avarta"><a href=""><img src="images/blog-1.png" class="img-fluid w-100" alt=""></a></div>
-							<div class="info">
-								<h3><a href="">Foxpay - Thanh toán thông minh</a></h3>
-								<div class="desc">
-									Từ ngày 01/12/2021 đến ngày 31/12/2021, FPT Telecom mang đến cho bạn cơ hội nhận nhiều...
-								</div>
-								<div class="date">Tin khuyến mãi • 13/12/2021</div>
+				</div>
+				<div class="item-slide">
+					<div class="item-blog">
+						<div class="avarta"><a href=""><img src="images/blog-2.png" class="img-fluid w-100" alt=""></a></div>
+						<div class="info">
+							<h3><a href="">Foxpay - Thanh toán thông minh</a></h3>
+							<div class="desc">
+								Từ ngày 01/12/2021 đến ngày 31/12/2021, FPT Telecom mang đến cho bạn cơ hội nhận nhiều...
 							</div>
+							<div class="date">Tin khuyến mãi • 13/12/2021</div>
 						</div>
 					</div>
-					<div class="item-slide">
-						<div class="item-blog">
-							<div class="avarta"><a href=""><img src="images/blog-1.png" class="img-fluid w-100" alt=""></a></div>
-							<div class="info">
-								<h3><a href="">Foxpay - Thanh toán thông minh</a></h3>
-								<div class="desc">
-									Từ ngày 01/12/2021 đến ngày 31/12/2021, FPT Telecom mang đến cho bạn cơ hội nhận nhiều...
-								</div>
-								<div class="date">Tin khuyến mãi • 13/12/2021</div>
+				</div>
+				<div class="item-slide">
+					<div class="item-blog">
+						<div class="avarta"><a href=""><img src="images/blog-3.png" class="img-fluid w-100" alt=""></a></div>
+						<div class="info">
+							<h3><a href="">Foxpay - Thanh toán thông minh</a></h3>
+							<div class="desc">
+								Từ ngày 01/12/2021 đến ngày 31/12/2021, FPT Telecom mang đến cho bạn cơ hội nhận nhiều...
 							</div>
+							<div class="date">Tin khuyến mãi • 13/12/2021</div>
 						</div>
 					</div>
-					<div class="item-slide">
-						<div class="item-blog">
-							<div class="avarta"><a href=""><img src="images/blog-1.png" class="img-fluid w-100" alt=""></a></div>
-							<div class="info">
-								<h3><a href="">Foxpay - Thanh toán thông minh</a></h3>
-								<div class="desc">
-									Từ ngày 01/12/2021 đến ngày 31/12/2021, FPT Telecom mang đến cho bạn cơ hội nhận nhiều...
-								</div>
-								<div class="date">Tin khuyến mãi • 13/12/2021</div>
+				</div>
+				<div class="item-slide">
+					<div class="item-blog">
+						<div class="avarta"><a href=""><img src="images/blog-1.png" class="img-fluid w-100" alt=""></a></div>
+						<div class="info">
+							<h3><a href="">Foxpay - Thanh toán thông minh</a></h3>
+							<div class="desc">
+								Từ ngày 01/12/2021 đến ngày 31/12/2021, FPT Telecom mang đến cho bạn cơ hội nhận nhiều...
 							</div>
+							<div class="date">Tin khuyến mãi • 13/12/2021</div>
 						</div>
 					</div>
-					<div class="item-slide">
-						<div class="item-blog">
-							<div class="avarta"><a href=""><img src="images/blog-1.png" class="img-fluid w-100" alt=""></a></div>
-							<div class="info">
-								<h3><a href="">Foxpay - Thanh toán thông minh</a></h3>
-								<div class="desc">
-									Từ ngày 01/12/2021 đến ngày 31/12/2021, FPT Telecom mang đến cho bạn cơ hội nhận nhiều...
-								</div>
-								<div class="date">Tin khuyến mãi • 13/12/2021</div>
+				</div>
+				<div class="item-slide">
+					<div class="item-blog">
+						<div class="avarta"><a href=""><img src="images/blog-2.png" class="img-fluid w-100" alt=""></a></div>
+						<div class="info">
+							<h3><a href="">Foxpay - Thanh toán thông minh</a></h3>
+							<div class="desc">
+								Từ ngày 01/12/2021 đến ngày 31/12/2021, FPT Telecom mang đến cho bạn cơ hội nhận nhiều...
 							</div>
+							<div class="date">Tin khuyến mãi • 13/12/2021</div>
 						</div>
 					</div>
+				</div>
+				<div class="item-slide">
+					<div class="item-blog">
+						<div class="avarta"><a href=""><img src="images/blog-3.png" class="img-fluid w-100" alt=""></a></div>
+						<div class="info">
+							<h3><a href="">Foxpay - Thanh toán thông minh</a></h3>
+							<div class="desc">
+								Từ ngày 01/12/2021 đến ngày 31/12/2021, FPT Telecom mang đến cho bạn cơ hội nhận nhiều...
+							</div>
+							<div class="date">Tin khuyến mãi • 13/12/2021</div>
+						</div>
+					</div>
+				</div>
+				<div class="item-slide">
+					<div class="item-blog">
+						<div class="avarta"><a href=""><img src="images/blog-2.png" class="img-fluid w-100" alt=""></a></div>
+						<div class="info">
+							<h3><a href="">Foxpay - Thanh toán thông minh</a></h3>
+							<div class="desc">
+								Từ ngày 01/12/2021 đến ngày 31/12/2021, FPT Telecom mang đến cho bạn cơ hội nhận nhiều...
+							</div>
+							<div class="date">Tin khuyến mãi • 13/12/2021</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="prss">
+				<div class="progress" role="progressbar" aria-valuemin="0" aria-valuemax="100">
+				    <span class="slider__label sr-only">
 				</div>
 			</div>
 		</div>
