@@ -127,6 +127,7 @@
 			</div>
 		</div>
 	</section>
+<<<<<<< HEAD
 	<section class="banner-center">
 		<div class="avarta"><img src="images/banner-center.png" class="img-fluid w-100" alt=""></div>
 		<div class="cap-banner">
