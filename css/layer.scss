@@ -9,12 +9,12 @@ body {
     box-sizing: border-box;
     color: #484848;
     padding: 0 !important;  
-    font-size: 16px;  
+    font-size: 18px;  
     line-height: 1.6;
     transition: .3s all; 
     position: relative;
-    font-weight: normal;
-    font-family: 'Mulish';
+    font-weight: 400;
+    font-family: 'SVN-Gilroy';
     background: #fff;
     color: #100A0A;
     overflow-x: hidden;
@@ -53,6 +53,9 @@ body {
         width: 100%;
         max-width: 1200px;
     } 
+    .container-fluid {
+        padding: 0 64px;
+    }
     img {
         max-width: 100%;
     }
@@ -61,3 +64,63 @@ body {
     }
 }
 
+header  {
+    background: #f8f6f1;
+    padding: 20px 0;
+    z-index: 1001;
+    // position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+
+.content-head {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 18px;
+    font-weight: 600;
+    ul {
+        list-style: none;
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+    }
+}
+.h-menu {
+    ul {
+        li {
+            margin-right: 40px;
+            &:last-child {
+                margin-right: 0;
+            }
+        }
+    }
+}
+.h-right {
+    a {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: #fff;
+    }
+    ul {
+        li {
+            margin-right: 12px;
+            &:last-child {
+                margin-right: 0;
+            }
+        }
+    }
+    .ac-head {
+        width: 40px;
+        height: 40px;
+        border-radius: 100%;
+    }
+    .btn-head {
+        height: 40px;
+        padding: 0px 20px;
+        border-radius: 40px;
+    }
+}

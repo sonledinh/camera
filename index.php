@@ -6,7 +6,7 @@
 				<div class="avarta"><img src="images/banner.jpg" class="img-fluid w-100" alt=""></div>
 				<div class="caption-bn text-center">
 					<div class="container">
-						<h2>Cảnh báo thông minh.</h2>
+						<h2>Cảnh báo <span>thông minh.</span></h2>
 						<h4>nhờ ứng dụng công nghệ Cloud và AI</h4>
 					</div>
 				</div>
@@ -45,7 +45,7 @@
 									</div>
 								</div>
 							</div>
-						</div>
+						</div> 
 					</div>
 					<div class="col-md-3">
 						<div class="item-why">
@@ -79,8 +79,8 @@
 								<div class="info-why">
 									<div class="icon">
 										<svg width="72" height="72" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
-											<path d="M25.5 33.75H46.5C47.73 33.75 48.75 32.73 48.75 31.5C48.75 30.27 47.73 29.25 46.5 29.25H25.5C24.27 29.25 23.25 30.27 23.25 31.5C23.25 32.73 24.27 33.75 25.5 33.75Z" fill="white"/>
-											<path d="M24 66.9598C25.02 66.9598 26.04 66.6599 26.91 66.0899L39.69 57.5698H51C61.32 57.5698 68.25 50.6398 68.25 40.3198V22.3198C68.25 11.9998 61.32 5.06982 51 5.06982H21C10.68 5.06982 3.75 11.9998 3.75 22.3198V40.3198C3.75 49.8598 9.69 56.5199 18.75 57.4499V61.7098C18.75 63.6598 19.8 65.4298 21.51 66.3298C22.29 66.7498 23.16 66.9598 24 66.9598ZM51 9.53979C58.74 9.53979 63.75 14.5498 63.75 22.2898V40.2898C63.75 48.0298 58.74 53.0398 51 53.0398H39C38.55 53.0398 38.13 53.1598 37.74 53.4298L24.39 62.3099C24.06 62.5199 23.76 62.4299 23.61 62.3399C23.46 62.2499 23.22 62.0698 23.22 61.6798V55.2898C23.22 54.0598 22.2 53.0398 20.97 53.0398C13.23 53.0398 8.21997 48.0298 8.21997 40.2898V22.2898C8.21997 14.5498 13.23 9.53979 20.97 9.53979H51Z" fill="white"/>
+											<path d="M25.5 33.75H46.5C47.73 33.75 48.75 32.73 48.75 31.5C48.75 30.27 47.73 29.25 46.5 29.25H25.5C24.27 29.25 23.25 30.27 23.25 31.5C23.25 32.73 24.27 33.75 25.5 33.75Z" fill="#100A0A"/>
+											<path d="M24 66.9598C25.02 66.9598 26.04 66.6599 26.91 66.0899L39.69 57.5698H51C61.32 57.5698 68.25 50.6398 68.25 40.3198V22.3198C68.25 11.9998 61.32 5.06982 51 5.06982H21C10.68 5.06982 3.75 11.9998 3.75 22.3198V40.3198C3.75 49.8598 9.69 56.5199 18.75 57.4499V61.7098C18.75 63.6598 19.8 65.4298 21.51 66.3298C22.29 66.7498 23.16 66.9598 24 66.9598ZM51 9.53979C58.74 9.53979 63.75 14.5498 63.75 22.2898V40.2898C63.75 48.0298 58.74 53.0398 51 53.0398H39C38.55 53.0398 38.13 53.1598 37.74 53.4298L24.39 62.3099C24.06 62.5199 23.76 62.4299 23.61 62.3399C23.46 62.2499 23.22 62.0698 23.22 61.6798V55.2898C23.22 54.0598 22.2 53.0398 20.97 53.0398C13.23 53.0398 8.21997 48.0298 8.21997 40.2898V22.2898C8.21997 14.5498 13.23 9.53979 20.97 9.53979H51Z" fill="#100A0A"/>
 										</svg>
 									</div>
 									<div class="desc">
@@ -127,5 +127,318 @@
 			</div>
 		</div>
 	</section>
+	<section class="banner-center">
+		<div class="avarta"><img src="images/banner-center.png" class="img-fluid w-100" alt=""></div>
+		<div class="cap-banner">
+			<div class="container">
+				<div class="logo"><img src="images/logo-banner.png" class="img-fluid" alt=""></div>
+				<h4><span>Công nghệ</span> tạo khác biệt</h4>
+			</div>
+		</div>
+	</section> 
+	<section class="box-canhbao">
+		<div class="container">
+			<div class="title text-center">
+				<h2>Cảnh báo thông minh</h2>
+				<p>Cảnh báo tức thì, đúng mục đích, loại bỏ cảnh báo không mong muốn</p>
+			</div>
+			<div class="content-phone-tab text-center">
+				<div class="tab-phone">
+					<div class="avr-phone"><img src="images/phone.png" class="img-fluid" alt=""></div>
+					<div class="tab-avr active" id="phone-1"><img src="images/phone-1.png" class="img-fluid w-100" alt=""></div>
+					<div class="tab-avr" id="phone-2"><img src="images/phone-1.png" class="img-fluid w-100" alt=""></div>
+					<div class="tab-avr" id="phone-3"><img src="images/phone-1.png" class="img-fluid w-100" alt=""></div>
+				</div>
+				<div class="slide-phone">
+                    <div class="slider-nav">
+                        <div class="clc"><div class="item">Phát hiện & thông báo khi có người chuyển động</div></div>
+                        <div class="clc"><div class="item">Nhận diện người lạ, người quen</div></div>
+                        <div class="clc"><div class="item">Khoanh vùng chuyển động</div></div>
+                        <div class="clc"><div class="item">Nhận thông báo kèm hình ảnh</div></div>
+                        <div class="clc"><div class="item">Tùy chọn thông báo</div></div>
+                    </div>
+                    <div class="slider-for">
+                        <div class="carousel-item">Phát hiện có người</div>
+                        <div class="carousel-item">Nhận diện người lạ, người quen</div>
+                        <div class="carousel-item">Khoanh vùng chuyển động</div>
+                        <div class="carousel-item">Nhận thông báo kèm hình ản</div>
+                        <div class="carousel-item">Tùy chọn thông báo</div>
+                    </div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="box-khampha">
+		<div class="title text-center">
+			<h2>Khám phá các dòng sản phẩm <span>Camera IQ.</span></h2>
+		</div>
+		<div class="list-kpha">
+			<div class="item-kpha">
+				<div class="avarta"><img src="images/kp-1.png" class="img-fluid w-100" alt=""></div>
+				<div class="info">
+					<div class="container">
+						<div class="row">
+							<div class="col-md-6"></div>
+							<div class="col-md-6">
+								<div class="txt-kp text-center">
+									<p>Camera IQ 3</p>
+									<ul>
+										<li>Wifi đa năng</li>
+										<li>Thiết kế nhỏ gọn</li>
+										<li>Nâng tầm thẩm mỹ</li>
+									</ul>
+									<div class="btn-kp"><a href="">Xem thêm</a></div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="item-kpha">
+				<div class="avarta"><img src="images/kp-2.png" class="img-fluid w-100" alt=""></div>
+				<div class="info">
+					<div class="container">
+						<div class="row">
+							<div class="col-md-6"></div>
+							<div class="col-md-6">
+								<div class="txt-kp text-center">
+									<p>Camera Play</p>
+									<ul>
+										<li>Wifi không dây</li>
+										<li>Sạc USB</li>
+										<li>Mọi lúc mọi nơi</li>
+									</ul>
+									<div class="btn-kp"><a href="">Xem thêm</a></div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="item-kpha">
+				<div class="avarta"><img src="images/kp-3.png" class="img-fluid w-100" alt=""></div>
+				<div class="info">
+					<div class="container">
+						<div class="row">
+							<div class="col-md-6"></div>
+							<div class="col-md-6">
+								<div class="txt-kp text-center">
+									<p>Camera IQ 2</p>
+									<ul>
+										<li>Giám sát chuyên nghiệp</li>
+										<li>Hỗ trợ wifi</li>
+										<li>Thiết kế nhỏ gọn, chắc chắn</li>
+									</ul>
+									<div class="btn-kp"><a href="">Xem thêm</a></div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="item-kpha">
+				<div class="avarta"><img src="images/kp-4.png" class="img-fluid w-100" alt=""></div>
+				<div class="info">
+					<div class="container">
+						<div class="row">
+							<div class="col-md-6"></div>
+							<div class="col-md-6">
+								<div class="txt-kp text-center">
+									<p>Camera IQ 2S</p>
+									<ul>
+										<li>Vỏ kim loại</li>
+										<li>Chống chịu mọi điều kiện <br>khắc nghiệt</li>
+									</ul>
+									<div class="btn-kp"><a href="">Xem thêm</a></div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="box-trainghiem">
+		<div class="container">
+			<div class="title text-center">
+				<h2>Trải nghiệm an ninh khác biệt và toàn diện với <span>DỊCH VỤ IQ.</span></h2>
+				<h4>Nhờ sự kết hợp hoàn hảo </h4>
+			</div>
+			<div class="content-traing">
+				<div class="row align-items-center">
+					<div class="col-md-5">
+						<div class="tn-big text-center">
+							<div class="avg-big"><img src="images/tn-1.png" class="img-fluid" alt=""></div>
+							<div class="info">
+								<h2>Dịch vụ IQ</h2>
+								<div class="btn-tn-big"><a href="">Tìm hiểu thêm</a></div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-7">
+						<div class="traing-small">
+							<div class="row">
+								<div class="col-md-6">
+									<div class="item-traing text-center">
+										<div class="avarta"><img src="images/tn-2.png" class="img-fluid w-100" alt=""></div>
+										<div class="info">
+											<h4>Lưu trữ & quản lý dữ liệu trên CLOUD</h4>
+											<div class="desc">Hệ thống Cloud server đạt chuẩn Tier 3 đặt tại Việt Nam</div>
+										</div>
+									</div>
+								</div>
+								<div class="col-md-6">
+									<div class="item-traing text-center">
+										<div class="avarta"><img src="images/tn-3.png" class="img-fluid w-100" alt=""></div>
+										<div class="info">
+											<h4>Cảnh báo thông minh</h4>
+											<div class="desc">Cảnh báo tức thì, đúng mục đích, loại bỏ cảnh báo không mong muốn</div>
+										</div>
+									</div>
+								</div>
+								<div class="col-md-6">
+									<div class="item-traing text-center">
+										<div class="avarta"><img src="images/tn-4.png" class="img-fluid w-100" alt=""></div>
+										<div class="info">
+											<h4>Quản lý & giám sát từ xa</h4>
+											<div class="desc">Giám sát, quản lý từ xa thông qua ứng dụng quản trị đa nền tảng</div>
+										</div>
+									</div>
+								</div>
+								<div class="col-md-6">
+									<div class="item-traing text-center">
+										<div class="avarta"><img src="images/tn-5.png" class="img-fluid w-100" alt=""></div>
+										<div class="info">
+											<h4>Triển khai, bảo hành, bảo trì & CSKH</h4>
+											<div class="desc">Dịch vụ đồng bộ với đội ngũ CSKH và IT của FPT Telecom trên toàn quốc</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="box-giamsat">
+		<div class="container">
+			<div class="row align-items-center">
+				<div class="col-md-6">
+					<div class="txt-gs">
+						<h3><span>Giám sát, quản lý từ xa</span> thông qua ứng dụng FPT Camera</h3>
+						<ul>
+							<li>
+								<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+									<path d="M20 7L9 18L4 13" stroke="#100A0A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+								</svg>
+								<span>Xem camera đa nền tảng: Di động, Desktop, Tivi</span>
+							</li>
+							<li>
+								<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+									<path d="M20 7L9 18L4 13" stroke="#100A0A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+								</svg>
+								<span>Quản lý thiết bị camera và người dùng từ nhiều địa điểm khác nhau </span>
+							</li>
+							<li>
+								<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+									<path d="M20 7L9 18L4 13" stroke="#100A0A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+								</svg>
+								<span>Phân quyền người dùng và chia sẻ quyền truy cập tới từng mắt camera</span>
+							</li>
+						</ul>
+						<div class="btn-tn-big"><a href="">Tìm hiểu thêm</a></div>
+					</div>
+				</div>
+				<div class="col-md-6">
+					<div class="avr-gs"><img src="images/gs.png" class="img-fluid" alt=""></div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="box-blog">
+		<div class="container">
+			<div class="title">
+				<div class="row align-items-center">
+					<div class="col-md-6">
+						<h2>Tin tức & Ưu đãi</h2>
+					</div>
+					<div class="col-md-6 text-right">
+						<a href="">
+							<span>Xem tất cả tin tức</span>
+							<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+								<path d="M12 22.75C6.07 22.75 1.25 17.93 1.25 12C1.25 6.07 6.07 1.25 12 1.25C17.93 1.25 22.75 6.07 22.75 12C22.75 17.93 17.93 22.75 12 22.75ZM12 2.75C6.9 2.75 2.75 6.9 2.75 12C2.75 17.1 6.9 21.25 12 21.25C17.1 21.25 21.25 17.1 21.25 12C21.25 6.9 17.1 2.75 12 2.75Z" fill="#100A0A"/>
+								<path d="M10.7397 16.28C10.5497 16.28 10.3597 16.21 10.2097 16.06C9.91969 15.77 9.91969 15.29 10.2097 15L13.2097 12L10.2097 8.99997C9.91969 8.70997 9.91969 8.22997 10.2097 7.93997C10.4997 7.64997 10.9797 7.64997 11.2697 7.93997L14.7997 11.47C15.0897 11.76 15.0897 12.24 14.7997 12.53L11.2697 16.06C11.1197 16.21 10.9297 16.28 10.7397 16.28Z" fill="#100A0A"/>
+							</svg>
+						</a>
+					</div>
+				</div>
+			</div>
+			<div class="list-blog">
+				<div class="slide-blog">
+					<div class="item-slide">
+						<div class="item-blog">
+							<div class="avarta"><a href=""><img src="images/blog-1.png" class="img-fluid w-100" alt=""></a></div>
+							<div class="info">
+								<h3><a href="">Foxpay - Thanh toán thông minh</a></h3>
+								<div class="desc">
+									Từ ngày 01/12/2021 đến ngày 31/12/2021, FPT Telecom mang đến cho bạn cơ hội nhận nhiều...
+								</div>
+								<div class="date">Tin khuyến mãi • 13/12/2021</div>
+							</div>
+						</div>
+					</div>
+					<div class="item-slide">
+						<div class="item-blog">
+							<div class="avarta"><a href=""><img src="images/blog-1.png" class="img-fluid w-100" alt=""></a></div>
+							<div class="info">
+								<h3><a href="">Foxpay - Thanh toán thông minh</a></h3>
+								<div class="desc">
+									Từ ngày 01/12/2021 đến ngày 31/12/2021, FPT Telecom mang đến cho bạn cơ hội nhận nhiều...
+								</div>
+								<div class="date">Tin khuyến mãi • 13/12/2021</div>
+							</div>
+						</div>
+					</div>
+					<div class="item-slide">
+						<div class="item-blog">
+							<div class="avarta"><a href=""><img src="images/blog-1.png" class="img-fluid w-100" alt=""></a></div>
+							<div class="info">
+								<h3><a href="">Foxpay - Thanh toán thông minh</a></h3>
+								<div class="desc">
+									Từ ngày 01/12/2021 đến ngày 31/12/2021, FPT Telecom mang đến cho bạn cơ hội nhận nhiều...
+								</div>
+								<div class="date">Tin khuyến mãi • 13/12/2021</div>
+							</div>
+						</div>
+					</div>
+					<div class="item-slide">
+						<div class="item-blog">
+							<div class="avarta"><a href=""><img src="images/blog-1.png" class="img-fluid w-100" alt=""></a></div>
+							<div class="info">
+								<h3><a href="">Foxpay - Thanh toán thông minh</a></h3>
+								<div class="desc">
+									Từ ngày 01/12/2021 đến ngày 31/12/2021, FPT Telecom mang đến cho bạn cơ hội nhận nhiều...
+								</div>
+								<div class="date">Tin khuyến mãi • 13/12/2021</div>
+							</div>
+						</div>
+					</div>
+					<div class="item-slide">
+						<div class="item-blog">
+							<div class="avarta"><a href=""><img src="images/blog-1.png" class="img-fluid w-100" alt=""></a></div>
+							<div class="info">
+								<h3><a href="">Foxpay - Thanh toán thông minh</a></h3>
+								<div class="desc">
+									Từ ngày 01/12/2021 đến ngày 31/12/2021, FPT Telecom mang đến cho bạn cơ hội nhận nhiều...
+								</div>
+								<div class="date">Tin khuyến mãi • 13/12/2021</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
 </main>
-<?php include 'footer.php';?>     
+<?php include 'footer.php';?>    

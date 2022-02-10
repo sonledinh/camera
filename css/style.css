@@ -3,111 +3,135 @@
   padding: 0; }
 
 @font-face {
-  font-family: 'Mulish';
-  src: url("../fonts/mulish/Mulish-BlackItalic.woff2") format("woff2"), url("../fonts/mulish/Mulish-BlackItalic.woff") format("woff");
-  font-weight: 900;
-  font-style: italic;
-  font-display: swap; }
-@font-face {
-  font-family: 'Mulish';
-  src: url("../fonts/mulish/Mulish-Bold.woff2") format("woff2"), url("../fonts/mulish/Mulish-Bold.woff") format("woff");
-  font-weight: bold;
-  font-style: normal;
-  font-display: swap; }
-@font-face {
-  font-family: 'Mulish';
-  src: url("../fonts/mulish/Mulish-ExtraBold.woff2") format("woff2"), url("../fonts/mulish/Mulish-ExtraBold.woff") format("woff");
-  font-weight: bold;
-  font-style: normal;
-  font-display: swap; }
-@font-face {
-  font-family: 'Mulish';
-  src: url("../fonts/mulish/Mulish-BoldItalic.woff2") format("woff2"), url("../fonts/mulish/Mulish-BoldItalic.woff") format("woff");
-  font-weight: bold;
-  font-style: italic;
-  font-display: swap; }
-@font-face {
-  font-family: 'Mulish';
-  src: url("../fonts/mulish/Mulish-ExtraLight.woff2") format("woff2"), url("../fonts/mulish/Mulish-ExtraLight.woff") format("woff");
-  font-weight: 200;
-  font-style: normal;
-  font-display: swap; }
-@font-face {
-  font-family: 'Mulish';
-  src: url("../fonts/mulish/Mulish-ExtraBoldItalic.woff2") format("woff2"), url("../fonts/mulish/Mulish-ExtraBoldItalic.woff") format("woff");
-  font-weight: bold;
-  font-style: italic;
-  font-display: swap; }
-@font-face {
-  font-family: 'Mulish';
-  src: url("../fonts/mulish/Mulish-Italic.woff2") format("woff2"), url("../fonts/mulish/Mulish-Italic.woff") format("woff");
-  font-weight: normal;
-  font-style: italic;
-  font-display: swap; }
-@font-face {
-  font-family: 'Mulish';
-  src: url("../fonts/mulish/Mulish-ExtraLightItalic.woff2") format("woff2"), url("../fonts/mulish/Mulish-ExtraLightItalic.woff") format("woff");
-  font-weight: 200;
-  font-style: italic;
-  font-display: swap; }
-@font-face {
-  font-family: 'Mulish';
-  src: url("../fonts/mulish/Mulish-Light.woff2") format("woff2"), url("../fonts/mulish/Mulish-Light.woff") format("woff");
-  font-weight: 300;
-  font-style: normal;
-  font-display: swap; }
-@font-face {
-  font-family: 'Mulish';
-  src: url("../fonts/mulish/Mulish-Regular.woff2") format("woff2"), url("../fonts/mulish/Mulish-Regular.woff") format("woff");
-  font-weight: normal;
-  font-style: normal;
-  font-display: swap; }
-@font-face {
-  font-family: 'Mulish';
-  src: url("../fonts/mulish/Mulish-LightItalic.woff2") format("woff2"), url("../fonts/mulish/Mulish-LightItalic.woff") format("woff");
-  font-weight: 300;
-  font-style: italic;
-  font-display: swap; }
-@font-face {
-  font-family: 'Mulish';
-  src: url("../fonts/mulish/Mulish-MediumItalic.woff2") format("woff2"), url("../fonts/mulish/Mulish-MediumItalic.woff") format("woff");
-  font-weight: 500;
-  font-style: italic;
-  font-display: swap; }
-@font-face {
-  font-family: 'Mulish';
-  src: url("../fonts/mulish/Mulish-SemiBold.woff2") format("woff2"), url("../fonts/mulish/Mulish-SemiBold.woff") format("woff");
-  font-weight: 600;
-  font-style: normal;
-  font-display: swap; }
-@font-face {
-  font-family: 'Mulish';
-  src: url("../fonts/mulish/Mulish-SemiBoldItalic.woff2") format("woff2"), url("../fonts/mulish/Mulish-SemiBoldItalic.woff") format("woff");
-  font-weight: 600;
-  font-style: italic;
-  font-display: swap; }
-@font-face {
-  font-family: 'Mulish';
-  src: url("../fonts/mulish/Mulish-Medium.woff2") format("woff2"), url("../fonts/mulish/Mulish-Medium.woff") format("woff");
+  font-family: 'SVN-Gilroy';
+  src: url("../fonts/gilroy/SVN-GilroyMedium.woff2") format("woff2"), url("../fonts/gilroy/SVN-GilroyMedium.woff") format("woff");
   font-weight: 500;
   font-style: normal;
   font-display: swap; }
 @font-face {
-  font-family: 'Mulish';
-  src: url("../fonts/mulish/Mulish-Black.woff2") format("woff2"), url("../fonts/mulish/Mulish-Black.woff") format("woff");
+  font-family: 'SVN-Gilroy';
+  src: url("../fonts/gilroy/SVN-Gilroy.woff2") format("woff2"), url("../fonts/gilroy/SVN-Gilroy.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap; }
+@font-face {
+  font-family: 'SVN-Gilroy';
+  src: url("../fonts/gilroy/SVN-GilroySemiBoldItalic.woff2") format("woff2"), url("../fonts/gilroy/SVN-GilroySemiBoldItalic.woff") format("woff");
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap; }
+@font-face {
+  font-family: 'SVN-Gilroy';
+  src: url("../fonts/gilroy/SVN-GilroySemiBold.woff2") format("woff2"), url("../fonts/gilroy/SVN-GilroySemiBold.woff") format("woff");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap; }
+@font-face {
+  font-family: 'SVN-Gilroy';
+  src: url("../fonts/gilroy/SVN-GilroyThin.woff2") format("woff2"), url("../fonts/gilroy/SVN-GilroyThin.woff") format("woff");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap; }
+@font-face {
+  font-family: 'SVN-Gilroy';
+  src: url("../fonts/gilroy/SVN-GilroyThinItalic.woff2") format("woff2"), url("../fonts/gilroy/SVN-GilroyThinItalic.woff") format("woff");
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap; }
+@font-face {
+  font-family: 'SVN-Gilroy XBold';
+  src: url("../fonts/gilroy/SVN-GilroyXBoldItalic.woff2") format("woff2"), url("../fonts/gilroy/SVN-GilroyXBoldItalic.woff") format("woff");
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap; }
+@font-face {
+  font-family: 'SVN-Gilroy XBold';
+  src: url("../fonts/gilroy/SVN-GilroyXBold.woff2") format("woff2"), url("../fonts/gilroy/SVN-GilroyXBold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap; }
+@font-face {
+  font-family: 'SVN-Gilroy XLight';
+  src: url("../fonts/gilroy/SVN-GilroyXLightItalic.woff2") format("woff2"), url("../fonts/gilroy/SVN-GilroyXLightItalic.woff") format("woff");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap; }
+@font-face {
+  font-family: 'SVN-Gilroy XLight';
+  src: url("../fonts/gilroy/SVN-GilroyXLight.woff2") format("woff2"), url("../fonts/gilroy/SVN-GilroyXLight.woff") format("woff");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap; }
+@font-face {
+  font-family: 'SVN-Gilroy';
+  src: url("../fonts/gilroy/SVN-GilroyBlackItalic.woff2") format("woff2"), url("../fonts/gilroy/SVN-GilroyBlackItalic.woff") format("woff");
   font-weight: 900;
+  font-style: italic;
+  font-display: swap; }
+@font-face {
+  font-family: 'SVN-Gilroy';
+  src: url("../fonts/gilroy/SVN-GilroyBlack.woff2") format("woff2"), url("../fonts/gilroy/SVN-GilroyBlack.woff") format("woff");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap; }
+@font-face {
+  font-family: 'SVN-Gilroy';
+  src: url("../fonts/gilroy/SVN-GilroyBoldItalic.woff2") format("woff2"), url("../fonts/gilroy/SVN-GilroyBoldItalic.woff") format("woff");
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap; }
+@font-face {
+  font-family: 'SVN-Gilroy';
+  src: url("../fonts/gilroy/SVN-GilroyHeavyItalic.woff2") format("woff2"), url("../fonts/gilroy/SVN-GilroyHeavyItalic.woff") format("woff");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap; }
+@font-face {
+  font-family: 'SVN-Gilroy';
+  src: url("../fonts/gilroy/SVN-GilroyBold.woff2") format("woff2"), url("../fonts/gilroy/SVN-GilroyBold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap; }
+@font-face {
+  font-family: 'SVN-Gilroy';
+  src: url("../fonts/gilroy/SVN-GilroyHeavy.woff2") format("woff2"), url("../fonts/gilroy/SVN-GilroyHeavy.woff") format("woff");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap; }
+@font-face {
+  font-family: 'SVN-Gilroy';
+  src: url("../fonts/gilroy/SVN-GilroyLightItalic.woff2") format("woff2"), url("../fonts/gilroy/SVN-GilroyLightItalic.woff") format("woff");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap; }
+@font-face {
+  font-family: 'SVN-Gilroy';
+  src: url("../fonts/gilroy/SVN-GilroyMediumItalic.woff2") format("woff2"), url("../fonts/gilroy/SVN-GilroyMediumItalic.woff") format("woff");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap; }
+@font-face {
+  font-family: 'SVN-Gilroy';
+  src: url("../fonts/gilroy/SVN-GilroyItalic.woff2") format("woff2"), url("../fonts/gilroy/SVN-GilroyItalic.woff") format("woff");
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap; }
+@font-face {
+  font-family: 'SVN-Gilroy';
+  src: url("../fonts/gilroy/SVN-GilroyLight.woff2") format("woff2"), url("../fonts/gilroy/SVN-GilroyLight.woff") format("woff");
+  font-weight: 300;
   font-style: normal;
   font-display: swap; }
 body {
   box-sizing: border-box;
   color: #484848;
   padding: 0 !important;
-  font-size: 16px;
+  font-size: 18px;
   line-height: 1.6;
   transition: .3s all;
   position: relative;
-  font-weight: normal;
-  font-family: 'Mulish';
+  font-weight: 400;
+  font-family: 'SVN-Gilroy';
   background: #fff;
   color: #100A0A;
   overflow-x: hidden; }
@@ -137,9 +161,360 @@ body {
   body .container {
     width: 100%;
     max-width: 1200px; }
+  body .container-fluid {
+    padding: 0 64px; }
   body img {
     max-width: 100%; }
   body .slick-slider {
     margin-bottom: 0; }
+
+header {
+  background: #f8f6f1;
+  padding: 20px 0;
+  z-index: 1001;
+  top: 0;
+  left: 0;
+  width: 100%; }
+
+.content-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 18px;
+  font-weight: 600; }
+  .content-head ul {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center; }
+
+.h-menu ul li {
+  margin-right: 40px; }
+  .h-menu ul li:last-child {
+    margin-right: 0; }
+
+.h-right a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #fff; }
+.h-right ul li {
+  margin-right: 12px; }
+  .h-right ul li:last-child {
+    margin-right: 0; }
+.h-right .ac-head {
+  width: 40px;
+  height: 40px;
+  border-radius: 100%; }
+.h-right .btn-head {
+  height: 40px;
+  padding: 0px 20px;
+  border-radius: 40px; }
+
+.title {
+  margin-bottom: 40px; }
+  .title h2 {
+    font-size: 40px;
+    font-weight: 700; }
+    .title h2 span {
+      display: block;
+      color: #FF5F2D;
+      margin-top: 10px; }
+  .title p {
+    color: #777E90;
+    font-weight: 600;
+    margin-top: 18px; }
+  .title h4 {
+    font-size: 32px;
+    font-weight: 700;
+    margin-top: 12px; }
+  .title a {
+    display: inline-flex;
+    font-size: 16px;
+    font-weight: 600;
+    align-items: center; }
+    .title a svg {
+      margin-left: 10px; }
+
+.item-slidebanner {
+  position: relative; }
+
+.caption-bn {
+  position: absolute;
+  top: 30%;
+  left: 0;
+  width: 100%;
+  z-index: 2;
+  color: #353945; }
+  .caption-bn h2 {
+    line-height: initial;
+    font-size: 56px;
+    font-weight: 700;
+    margin-bottom: 15px;
+    color: #141416; }
+    .caption-bn h2 span {
+      color: #FF5F2D; }
+  .caption-bn h4 {
+    font-size: 32px;
+    font-weight: 600; }
+
+.box-banner {
+  margin-bottom: 88px; }
+
+.box-why-main .container-fluid {
+  padding: 0; }
+  .box-why-main .container-fluid .row {
+    margin: 0; }
+    .box-why-main .container-fluid .row > div {
+      padding: 0;
+      border-right: 1px solid #E6E8EC; }
+
+.item-why {
+  position: relative; }
+  .item-why:after {
+    content: "";
+    width: 100%;
+    height: 100%;
+    background: #F8FAFB;
+    transition: .3s all !important;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 2; }
+  .item-why .avarta {
+    position: relative; }
+    .item-why .avarta:after {
+      content: "";
+      width: 100%;
+      height: 100%;
+      background: linear-gradient(0deg, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3));
+      position: absolute;
+      top: 0;
+      left: 0;
+      z-index: 1; }
+  .item-why:hover:after {
+    opacity: 0; }
+  .item-why:hover .capp-why {
+    color: #fff; }
+  .item-why:hover .icon {
+    opacity: 1; }
+    .item-why:hover .icon path {
+      fill: #fff; }
+
+.capp-why {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 3;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center; }
+  .capp-why ul {
+    list-style: none;
+    color: #fff;
+    display: none; }
+  .capp-why .icon {
+    opacity: 0.8;
+    transition: .3s all !important;
+    margin-bottom: 80px; }
+    .capp-why .icon path {
+      transition: .3s all !important; }
+  .capp-why h4 {
+    font-size: 24px;
+    font-weight: 600;
+    margin-bottom: 15px; }
+
+.banner-center {
+  position: relative;
+  margin-bottom: 80px; }
+  .banner-center .container {
+    max-width: 1440px; }
+
+.cap-banner {
+  position: absolute;
+  top: 28%;
+  left: 0;
+  width: 100%;
+  text-transform: uppercase; }
+  .cap-banner h4 {
+    font-size: 36px;
+    font-weight: 700;
+    margin-top: 12px; }
+    .cap-banner h4 span {
+      color: #FF5F2D; }
+
+.box-canhbao .title {
+  margin-bottom: 60px; }
+
+.tab-phone {
+  position: relative;
+  width: max-content;
+  margin: 0 auto;
+  overflow: hidden;
+  border-radius: 50px; }
+
+.tab-avr {
+  display: none; }
+  .tab-avr.active {
+    display: block; }
+  .tab-avr img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    object-fit: cover;
+    padding: 15px;
+    border-radius: 55px; }
+
+.box-canhbao {
+  margin-bottom: 120px; }
+
+.list-kpha .container {
+  max-width: 100%;
+  padding: 0 64px; }
+
+.item-kpha {
+  font-size: 24px;
+  font-weight: 600;
+  color: #fff;
+  position: relative; }
+  .item-kpha .info {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center; }
+    .item-kpha .info ul {
+      list-style: none;
+      font-size: 48px;
+      font-weight: 700;
+      line-height: initial;
+      padding: 10px 0 40px 0; }
+  .item-kpha .btn-kp a {
+    display: inline-flex;
+    font-size: 16px;
+    font-weight: 600;
+    border: 2px solid #fff;
+    border-radius: 8px;
+    height: 48px;
+    justify-content: center;
+    align-items: center;
+    padding: 0 28px;
+    color: #fff; }
+    .item-kpha .btn-kp a:hover {
+      background: #fff;
+      color: #100A0A; }
+  .item-kpha:nth-child(2n) .col-md-6:first-child {
+    order: 2; }
+  .item-kpha:nth-child(2n) .col-md-6:last-child {
+    order: 1; }
+  .item-kpha:first-child {
+    color: #100A0A; }
+    .item-kpha:first-child .btn-kp a {
+      display: inline-flex;
+      font-size: 16px;
+      font-weight: 600;
+      border: 2px solid #100A0A;
+      border-radius: 8px;
+      height: 48px;
+      justify-content: center;
+      align-items: center;
+      padding: 0 28px;
+      color: #100A0A; }
+      .item-kpha:first-child .btn-kp a:hover {
+        background: #100A0A;
+        color: #fff;
+        border: 2px solid #100A0A; }
+
+.box-khampha {
+  margin-bottom: 120px; }
+
+.box-trainghiem {
+  background: #F9F7F4;
+  padding: 80px 0 0 0;
+  margin-bottom: 100px; }
+
+.traing-small .row {
+  margin: 0 -20px; }
+  .traing-small .row > div {
+    padding: 0 20px;
+    margin-bottom: 80px; }
+
+.item-traing {
+  font-size: 16px;
+  line-height: 1.3;
+  height: 100%; }
+  .item-traing .avarta {
+    margin-bottom: 30px; }
+  .item-traing .info h4 {
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 15px; }
+
+.tn-big .info {
+  margin-top: 15px; }
+  .tn-big .info h2 {
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 20px; }
+
+.btn-tn-big a {
+  border: 1px solid #100A0A;
+  box-sizing: border-box;
+  border-radius: 8px;
+  display: inline-flex;
+  align-items: center;
+  height: 48px;
+  font-size: 16px;
+  font-weight: 600;
+  padding: 0 20px; }
+  .btn-tn-big a:hover {
+    color: #fff;
+    background: #100A0A; }
+
+.txt-gs {
+  font-size: 16px; }
+  .txt-gs h3 {
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 1.4; }
+    .txt-gs h3 span {
+      color: #FF5F2D; }
+  .txt-gs ul {
+    list-style: none;
+    padding: 32px 0 70px 0; }
+    .txt-gs ul li {
+      margin-bottom: 24px;
+      position: relative;
+      padding-left: 32px; }
+      .txt-gs ul li:last-child {
+        margin-bottom: 0; }
+      .txt-gs ul li svg {
+        position: absolute;
+        top: 0;
+        left: 0; }
+
+.box-giamsat {
+  background: #F9F7F4;
+  position: relative;
+  margin-bottom: 110px; }
+  .box-giamsat:before {
+    content: "";
+    width: 100%;
+    height: 100px;
+    background: #fff;
+    position: absolute;
+    top: 0;
+    left: 0; }
+
+.slide-blog {
+  margin: 0 -22px; }
+  .slide-blog .item-slide {
+    padding: 0 22px; }
 
 /*# sourceMappingURL=style.css.map */
