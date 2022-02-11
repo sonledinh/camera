@@ -13,6 +13,52 @@
 			</div>
 		</div>
 	</section>
+	<div class="container">
+
+		<div class="preview-books">
+			<div class="slide-thumb">
+				<div class="thumb-top">
+					<div class="slider-for">
+                        <div class="carousel-item">
+                            1
+                        </div>
+                        <div class="carousel-item">
+                            2
+                        </div>
+                        <div class="carousel-item">
+                            3
+                        </div>
+                        <div class="carousel-item">
+                            4
+                        </div>
+                    </div>
+				</div>
+                <div class="slider-nav">
+                    <div class="clc">
+                     	<div class="item" id="tab-1">Lorem ipsum dolor sit amet 1</div>
+                    </div>
+                    <div class="clc">
+                     	<div class="item" id="tab-2">Lorem ipsum dolor sit amet 2</div>
+                    </div>
+                    <div class="clc">
+                     	<div class="item" id="tab-3">Lorem ipsum dolor sit amet 3</div>
+                    </div>
+                    <div class="clc">
+                     	<div class="item" id="tab-4">Lorem ipsum dolor sit amet 4</div>
+                    </div>
+                </div>
+			</div>
+		</div>
+
+
+	<ul class="tabs">
+		<li class="tab-link current" data-tab="tab-1">Tab One</li>
+		<li class="tab-link" data-tab="tab-2">Tab Two</li>
+		<li class="tab-link" data-tab="tab-3">Tab Three</li> 
+		<li class="tab-link" data-tab="tab-4">Tab Four</li>
+	</ul>
+
+</div><!-- container -->
 	<section class="box-why-main">
 		<div class="container-fluid">
 			<div class="title text-center">

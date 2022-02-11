@@ -639,4 +639,12 @@ footer {
   .gallery-thumbs .swiper-slide.swiper-slide-thumb-active {
     opacity: 1; }
 
+.tab-content {
+  display: none;
+  background: #ededed;
+  padding: 15px; }
+
+.tab-content.current {
+  display: inherit; }
+
 /*# sourceMappingURL=style.css.map */
