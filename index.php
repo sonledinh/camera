@@ -13,52 +13,6 @@
 			</div>
 		</div>
 	</section>
-	<div class="container">
-
-		<div class="preview-books">
-			<div class="slide-thumb">
-				<div class="thumb-top">
-					<div class="slider-for">
-                        <div class="carousel-item">
-                            1
-                        </div>
-                        <div class="carousel-item">
-                            2
-                        </div>
-                        <div class="carousel-item">
-                            3
-                        </div>
-                        <div class="carousel-item">
-                            4
-                        </div>
-                    </div>
-				</div>
-                <div class="slider-nav">
-                    <div class="clc">
-                     	<div class="item" id="tab-1">Lorem ipsum dolor sit amet 1</div>
-                    </div>
-                    <div class="clc">
-                     	<div class="item" id="tab-2">Lorem ipsum dolor sit amet 2</div>
-                    </div>
-                    <div class="clc">
-                     	<div class="item" id="tab-3">Lorem ipsum dolor sit amet 3</div>
-                    </div>
-                    <div class="clc">
-                     	<div class="item" id="tab-4">Lorem ipsum dolor sit amet 4</div>
-                    </div>
-                </div>
-			</div>
-		</div>
-
-
-	<ul class="tabs">
-		<li class="tab-link current" data-tab="tab-1">Tab One</li>
-		<li class="tab-link" data-tab="tab-2">Tab Two</li>
-		<li class="tab-link" data-tab="tab-3">Tab Three</li> 
-		<li class="tab-link" data-tab="tab-4">Tab Four</li>
-	</ul>
-
-</div><!-- container -->
 	<section class="box-why-main">
 		<div class="container-fluid">
 			<div class="title text-center">
@@ -191,63 +145,46 @@
 			<div class="content-phone-tab text-center">
 				<div class="tab-phone">
 					<div class="avr-phone"><img src="images/ip12.png" class="img-fluid" alt=""></div>
-					<div class="swiper-container gallery-top">
-						<div class="swiper-wrapper">
-						    <div class="swiper-slide"><img src="images/phone-1.png" class="img-fluid w-100" alt=""></div>
-						    <div class="swiper-slide"><img src="images/phone-1.png" class="img-fluid w-100" alt=""></div>
-						    <div class="swiper-slide"><img src="images/phone-1.png" class="img-fluid w-100" alt=""></div>
-						    <div class="swiper-slide"><img src="images/phone-1.png" class="img-fluid w-100" alt=""></div>
-						    <div class="swiper-slide"><img src="images/phone-1.png" class="img-fluid w-100" alt=""></div>
-						</div>
+					<div class="thumb-top">
+						<div class="slider-for">
+	                        <div class="carousel-item"><img src="images/phone-1.png" class="img-fluid w-100" alt=""></div>
+	                        <div class="carousel-item"><img src="images/phone-1.png" class="img-fluid w-100" alt=""></div>
+	                        <div class="carousel-item"><img src="images/phone-1.png" class="img-fluid w-100" alt=""></div>
+	                        <div class="carousel-item"><img src="images/phone-1.png" class="img-fluid w-100" alt=""></div>
+	                        <div class="carousel-item"><img src="images/phone-1.png" class="img-fluid w-100" alt=""></div>
+	                    </div>
 					</div>
-					<!-- <div class="tab-avr active" id="phone-1"><img src="images/phone-1.png" class="img-fluid w-100" alt=""></div>
-					<div class="tab-avr" id="phone-2"><img src="images/phone-1.png" class="img-fluid w-100" alt=""></div>
-					<div class="tab-avr" id="phone-3"><img src="images/phone-1.png" class="img-fluid w-100" alt=""></div> -->
 				</div>
-				<!-- <div class="slide-phone">
-                    <div class="slider-nav">
-                        <div class="clc"><div class="item">Phát hiện & thông báo khi có người chuyển động</div></div>
-                        <div class="clc"><div class="item">Nhận diện người lạ, người quen</div></div>
-                        <div class="clc"><div class="item">Khoanh vùng chuyển động</div></div>
-                        <div class="clc"><div class="item">Nhận thông báo kèm hình ảnh</div></div>
-                        <div class="clc"><div class="item">Tùy chọn thông báo</div></div>
-                    </div>
-                    <div class="slider-for">
-                        <div class="carousel-item">Phát hiện có người</div>
-                        <div class="carousel-item">Nhận diện người lạ, người quen</div>
-                        <div class="carousel-item">Khoanh vùng chuyển động</div>
-                        <div class="carousel-item">Nhận thông báo kèm hình ảnh</div>
-                        <div class="carousel-item">Tùy chọn thông báo</div>
-                    </div>
-				</div> -->
 			</div>
-			<!-- <div class="swiper-container gallery-top">
-				<div class="swiper-wrapper">
-				    <div class="swiper-slide"><img src="images/phone-1.png" class="img-fluid w-100" alt=""></div>
-				    <div class="swiper-slide"><img src="images/phone-1.png" class="img-fluid w-100" alt=""></div>
-				    <div class="swiper-slide"><img src="images/phone-1.png" class="img-fluid w-100" alt=""></div>
-				    <div class="swiper-slide"><img src="images/phone-1.png" class="img-fluid w-100" alt=""></div>
-				    <div class="swiper-slide"><img src="images/phone-1.png" class="img-fluid w-100" alt=""></div>
-				</div>
-			</div> -->
 		</div>
-
-		<!-- <div class="swiper-container gallery-top">
-			<div class="swiper-wrapper">
-			    <div class="swiper-slide"><img src="images/phone-1.png" class="img-fluid w-100" alt=""></div>
-			    <div class="swiper-slide"><img src="images/phone-1.png" class="img-fluid w-100" alt=""></div>
-			    <div class="swiper-slide"><img src="images/phone-1.png" class="img-fluid w-100" alt=""></div>
-			    <div class="swiper-slide"><img src="images/phone-1.png" class="img-fluid w-100" alt=""></div>
-			    <div class="swiper-slide"><img src="images/phone-1.png" class="img-fluid w-100" alt=""></div>
-			</div>
-		</div> -->
-		<div class="swiper-container gallery-thumbs">
-			<div class="swiper-wrapper">
-			    <div class="swiper-slide">Phát hiện có người</div>
-			    <div class="swiper-slide">Nhận diện người lạ, người quen</div>
-			    <div class="swiper-slide">Khoanh vùng chuyển động</div>
-			    <div class="swiper-slide">Nhận thông báo kèm hình ảnh</div>
-			    <div class="swiper-slide">Tùy chọn thông báo</div>
+		<div class="slide-thumb">
+        	<div class="slider-nav text-center">
+                <div class="clc" data-tab="tab-1">
+                 	<div class="item">Phát hiện có người</div>
+                </div>
+                <div class="clc" data-tab="tab-2">
+                 	<div class="item">Nhận diện người lạ, người quen</div>
+                </div>
+                <div class="clc" data-tab="tab-3">
+                 	<div class="item">Khoanh vùng chuyển động</div>
+                </div>
+                <div class="clc" data-tab="tab-4">
+                 	<div class="item">Nhận thông báo kèm hình ảnh</div>
+                </div>
+                <div class="clc" data-tab="tab-5">
+                 	<div class="item">Tùy chọn thông báo</div>
+                </div>
+            </div>
+		</div>
+		<div class="tab-cpntent-thumg">
+			<div class="container">
+					<ul class="slider-for text-center">
+					<li class="tab-link" id="tab-1">Phát hiện có người</li>
+					<li class="tab-link" id="tab-2">Nhận diện người lạ, người quen</li>
+					<li class="tab-link" id="tab-3">Khoanh vùng chuyển động</li> 
+					<li class="tab-link" id="tab-4">Nhận thông báo kèm hình ảnh</li>
+					<li class="tab-link" id="tab-5">Tùy chọn thông báo</li>
+				</ul>
 			</div>
 		</div>
 	</section>
@@ -438,7 +375,7 @@
 					</div>
 				</div>
 				<div class="col-md-6">
-					<div class="avr-gs text-center"><img src="images/gs.png" class="img-fluid" alt=""></div>
+					<div class="avr-gs text-center wow fadeInUp wHighlight" data-wow-delay=".25s"><img src="images/gs.png" class="img-fluid" alt=""></div>
 				</div>
 			</div>
 		</div>

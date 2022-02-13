@@ -7,21 +7,18 @@
     <title>FPT Camera</title>
     <!--link css-->
     <link rel="stylesheet" type="text/css" title="" href="css/lib/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" title="" href="css/animate.css">
     <link rel="stylesheet" type="text/css" title="" href="css/font-awesome.css">
     <link rel="stylesheet" type="text/css" title="" href="css/lib/slick.min.css">
     <link rel="stylesheet" type="text/css" title="" href="css/lib/slick-theme.min.css">
     <link rel="stylesheet" type="text/css" title="" href="css/lib/jquery.mmenu.all.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/2.7.6/idangerous.swiper.css">
-    <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.5.0/css/swiper.min.css"> -->
     <link rel="stylesheet" type="text/css" title="" href="css/style.css">
 
     <script type="text/javascript" src="js/lib/jquery.min.js"></script> 
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/2.7.6/idangerous.swiper.js"></script>
-    <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.5.0/js/swiper.min.js"></script> -->
 
 </head>
 <body>  
-    <header>
+    <header> 
         <div class="header-pc">
             <div class="container-fluid">
                 <div class="content-head">
